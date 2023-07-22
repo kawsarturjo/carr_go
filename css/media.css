@@ -1,0 +1,330 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.logo {
+    font-size: 26px;
+    }
+    .menu ul li a {
+    margin-right: 8px;
+    }
+    header {
+    padding: 8px;
+    }
+	/*header end*/
+		/*banner start*/
+	.banner-text-1 h1 {
+    font-size: 1.9rem;
+    }
+    .banner-text-1 h3 {
+    font-size: 18px;
+    }
+    .banner-text-1 p {
+    line-height: 23px;
+    font-size: 14px;
+    }
+            .banner-text-1-2 span{
+    line-height: 23px;
+    font-size: 14px;
+    }
+    .banner-start {
+    padding: 110px 0 65px;
+    }
+    .dots {
+    left: -350px;
+    }
+	/*banner end*/
+
+		/*trd section start*/
+    .wrapper p {
+    margin: 60px 16px 0px;
+    font-size: 16px;
+    }
+    .wrapper .line {
+    width: 80%;
+        margin: -18px auto;
+    }
+                .fth-line .line {
+    width: 90%;
+    }
+    .trd-sec {
+    padding: 50px 0 30px;
+    }
+    .trd-t-padding {
+    padding-top: 25px;
+    }
+    .banner-text-1-2 h3 {
+    font-size: 18px;
+    }
+	/*trd section*/
+		/*frth section*/
+	.frth-sec-service {
+    margin: 40px 0 0px;
+    }
+    .frth-section {
+    padding-bottom: 85px;
+    }
+    .wrapper-padding {
+    padding: 85px 0 0;
+    }
+	/*frth section*/
+			/*fth section*/
+	.border-img {
+    margin-top: 35px;
+    }
+    .frth-sec-service i {
+    font-size: 35px;
+   }
+
+	/*fth section*/
+
+		.google {
+    height: 200px;
+    }
+
+    .footer-text p {
+    margin: 0 50px;
+    }
+    .footer-1 {
+    padding: 100px 0 35px;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.logo {
+    font-size: 36px;
+    }
+    .menu ul li a {
+    margin-right: 8px;
+    }
+    header {
+    padding: 10px;
+    }
+	/*header end*/
+		/*banner start*/
+	.banner-text-1 h1 {
+    font-size: 2.0rem;
+    }
+    .banner-text-1 h3 {
+    font-size: 20px;
+    }
+    .banner-text-1 p {
+    line-height: 24px;
+    font-size: 15px;
+    }
+            .banner-text-1-2 span{
+    line-height: 24px;
+    font-size: 15px;
+    }
+    .banner-start {
+    padding: 65px 0 65px;
+    }
+    .dots {
+    left: -455px;
+    }
+	/*banner end*/
+
+		/*trd section start*/
+    .wrapper p {
+    margin: 60px 3px 0;
+    font-size: 17px;
+    }
+    .wrapper .line {
+    width: 70%;
+        margin: -20px auto;
+    }
+            .fth-line .line {
+    width: 85%;
+    }
+    .trd-sec {
+    padding: 70px 0 40px;
+    }
+    .trd-t-padding {
+    padding-top: 25px;
+    }
+	/*trd section*/
+	/*frth section*/
+	.frth-sec-service {
+    margin: 85px 0 0px;
+    }
+    .frth-section {
+    padding-bottom: 90px;
+    }
+    .wrapper-padding {
+    padding: 85px 0 0;
+    }
+	/*frth section*/
+		/*fth section*/
+	.border-img {
+    margin-top: 45px;
+    }
+    .frth-sec-service i {
+    font-size: 40px;
+   }
+
+	/*fth section*/
+
+	.google {
+    height: 250px;
+    }
+
+    .footer-text p {
+    margin: 0 71px;
+    }
+    .footer-1 {
+    padding: 100px 0 65px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.logo {
+    font-size: 36px;
+    }
+    .menu ul li a {
+    margin-right: 8px;
+    }
+	/*header end*/
+		/*banner start*/
+	.banner-text-1 h1 {
+    font-size: 2.0rem;
+    }
+    .banner-text-1 h3 {
+    font-size: 20px;
+    }
+    .banner-text-1 p {
+    line-height: 24px;
+    font-size: 15px;
+    }
+        .banner-text-1-2 span{
+    line-height: 24px;
+    font-size: 15px;
+    }
+    .banner-start {
+    padding: 110px 0 65px;
+    }
+    .dots {
+    left: -640px;
+    }
+	/*banner end*/
+
+		/*trd section start*/
+    .wrapper p {
+    margin: 60px 38px 0;
+    font-size: 18px;
+    }
+    .wrapper .line {
+    width: 60%;
+        margin: -22px auto;
+    }
+        .fth-line .line {
+    width: 75%;
+    }
+    .trd-sec {
+    padding: 70px 0 40px;
+    }
+    .trd-t-padding {
+    padding-top: 25px;
+    }
+	/*trd section*/
+	/*frth section*/
+	.frth-sec-service {
+    margin: 85px 0 0px;
+    }
+    .frth-section {
+    padding-bottom: 110px;
+    }
+	/*frth section*/
+	/*fth section*/
+	.border-img {
+    margin-top: 70px;
+    }
+
+	/*fth section*/
+
+	/*contact us sec start*/
+	.address-s p {
+    margin: 0px 196px;
+    }
+	/*contact us sec end*/
+
+	.google {
+    height: 300px;
+    }
+
+
+    .footer-text p {
+    margin: 0 151px;
+   }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*header start*/
+	.logo {
+    font-size: 36px;
+    }
+    .menu ul li a {
+    margin-right: 8px;
+    }
+	/*header end*/
+	/*banner start*/
+	.banner-text-1 h1 {
+    font-size: 2.0rem;
+    }
+    .banner-text-1 h3 {
+    font-size: 20px;
+    }
+    .banner-text-1 p {
+    line-height: 24px;
+    font-size: 15px;
+    }
+    .banner-text-1-2 span{
+    line-height: 24px;
+    font-size: 15px;
+    }
+    .banner-start {
+    padding: 110px 0 65px;
+    }
+    .dots {
+    left: -405px;
+    }
+	/*banner end*/
+
+	/*trd section start*/
+	.wrapper p {
+    margin: 60px 123px;
+    font-size: 19px;
+    }
+    .wrapper .line {
+    width: 50%;
+    }
+    .fth-line .line {
+    width: 65%;
+    }
+	/*trd section*/
+	/*frth section*/
+	.frth-sec-service p {
+    margin: 0px 0px;
+    }
+	/*frth section*/
+
+	.google {
+    height: 350px;
+    }
+
+
+	
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+	
+}
